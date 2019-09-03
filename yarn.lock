@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@ensojs/framework@0.8.0":
-  version "0.8.0"
-  resolved "https://registry.yarnpkg.com/@ensojs/framework/-/framework-0.8.0.tgz#494f63bba9f48dfe1967d388698451bc057ff6e8"
-  integrity sha512-Wbv7BMwdP54SUQVV/zx2i4f3b1Vq1+oJPrWHxJqjY1R9mz6oXxVRXaMzxsGRvwTLkvFhKZSAJLM8rpfugDBwcA==
+"@ensojs/framework@0.8.1":
+  version "0.8.1"
+  resolved "https://registry.yarnpkg.com/@ensojs/framework/-/framework-0.8.1.tgz#678fec31c4603976df6b36dfcd274b0b4f04864a"
+  integrity sha512-H83YU+kRXLMpEkSjDqHUgEQYqYRRwFu72Dq1k29NZFr0ARfODYrbXRDBHMcztoF6cP6UmufzTlvu9qcifS8vpg==
   dependencies:
     "@koa/cors" "^2.2.2"
     class-validator "^0.9.1"
@@ -35,9 +35,9 @@
     vary "^1.1.2"
 
 "@types/node@^12.0.10":
-  version "12.0.10"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.0.10.tgz#51babf9c7deadd5343620055fc8aff7995c8b031"
-  integrity sha512-LcsGbPomWsad6wmMNv7nBLw7YYYyfdYcz6xryKYQhx89c3XXan+8Q6AJ43G5XDIaklaVkK3mE4fCb0SBvMiPSQ==
+  version "12.7.3"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.7.3.tgz#27b3f40addaf2f580459fdb405222685542f907a"
+  integrity sha512-3SiLAIBkDWDg6vFo0+5YJyHPWU9uwu40Qe+v+0MH8wRKYBimHvvAOyk3EzMrD/TrIlLYfXrqDqrg913PynrMJQ==
 
 accepts@^1.3.5:
   version "1.3.7"
@@ -1525,9 +1525,9 @@ typeorm@^0.2.17:
     yargs "^13.2.1"
 
 typescript@^3.5.2:
-  version "3.5.2"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.5.2.tgz#a09e1dc69bc9551cadf17dba10ee42cf55e5d56c"
-  integrity sha512-7KxJovlYhTX5RaRbUdkAXN1KUZ8PwWlTzQdHV6xNqvuFOs7+WBo10TQUqT19Q/Jz2hk5v9TQDIhyLhhJY4p5AA==
+  version "3.6.2"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.6.2.tgz#105b0f1934119dde543ac8eb71af3a91009efe54"
+  integrity sha512-lmQ4L+J6mnu3xweP8+rOrUwzmN+MRAj7TgtJtDaXE5PMyX2kCrklhg3rvOsOIfNeAWMQWO2F1GPc1kMD2vLAfw==
 
 unpipe@1.0.0:
   version "1.0.0"
