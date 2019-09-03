@@ -1,4 +1,4 @@
-# @ensojs/standalone-starter
+# @ensojs/skeleton-install
 
 ## Getting started
 
@@ -6,7 +6,9 @@
 # setup your environment
 cp .env.example .env
 
+# install deps
+yarn
+
 # start the dev server
 yarn dev
 ```
-
