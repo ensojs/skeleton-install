@@ -1,6 +1,6 @@
 import { Container } from 'inversify'
 import { interfaces } from 'inversify-koa'
-import { TYPE } from '@enso-ts/framework'
+import { TYPE } from '@ensojs/framework'
 import { IndexController } from '../IndexController'
 
 export const container = new Container()
